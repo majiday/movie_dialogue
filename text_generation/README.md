@@ -4,7 +4,7 @@ This repository contains a text generation model based on the dialogue from the 
 
 ## Project Structure
 
-- **`main.ipynb`**: The Jupyter notebook serves as the primary interface where the entire process is orchestrated. It calls functions from other modules to perform tasks like data loading, preprocessing, model training, and text generation.
+- **`main.py`**: This file serves as the primary interface where the entire process is orchestrated. It calls functions from other modules to perform tasks like data loading, preprocessing, model training, and text generation.
 - **`data_preprocessing.py`**: This module handles all the data preprocessing tasks, including loading and cleaning the data to prepare it for model training.
 - **`model_training.py`**: Contains functions related to setting up, training, and evaluating the LSTM model.
 - **`text_generation.py`**: Provides functionality to generate text using the trained model.
