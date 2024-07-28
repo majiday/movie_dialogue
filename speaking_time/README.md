@@ -32,3 +32,13 @@ matplotlib
 seaborn
 ```
 
+## Usage
+
+Run the project by executing the main.py script:
+
+``` bash
+python main.py
+```
+
+This will produce plots showing the number of lines spoken by each character per season and a heatmap representing the same data.
+
