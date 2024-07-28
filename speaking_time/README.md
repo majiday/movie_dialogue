@@ -21,5 +21,14 @@ To run this project, you need to install the necessary Python packages. You can 
 pip install -r requirements.txt
 ```
 
-Requirements File
+## Requirements File
+
 Create a requirements.txt file with the following contents to manage the dependencies:
+
+```bash
+pandas
+scipy
+matplotlib
+seaborn
+```
+
