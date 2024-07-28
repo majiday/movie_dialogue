@@ -15,4 +15,5 @@ evaluate_model(nb_model, X_test_vec, y_test)
 X_train, X_test, y_train, y_test, tokenizer = prepare_data_nn(data)
 nn_model = train_nn_model(X_train, y_train, tokenizer)
 evaluate_model(nn_model, X_test, y_test)
-save_model(nn_model, config.MODEL_PATH_NN)
+
+#save_model(nn_model, config.MODEL_PATH_NN)
