@@ -1,5 +1,3 @@
-# Python Data Analysis Project
-
 ## Overview
 
 This project analyzes the dialogue data from a fictional dataset, focusing on the main characters' spoken lines across different seasons. It involves loading the data, filtering by specific criteria, performing statistical tests, and visualizing the results.
